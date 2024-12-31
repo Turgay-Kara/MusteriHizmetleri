@@ -10,7 +10,8 @@ Proje, Python'da `pandas`, `sklearn`, ve `CountVectorizer` gibi kütüphaneler k
 +  **Model Eğitimi ve Testi:** Random Forest sınıflandırıcı kullanılarak metin sınıflandırma modeli eğitilir ve doğruluk skoru hesaplanır.  
 +  **Kullanıcı Girişi:** Kullanıcıdan alınan metin, model tarafından sınıflandırılır.
 
+## Gereksinimler:
+Python ortamında gerekli kütüphanelerin yüklenmesi: `pip install pandas scikit-learn`
+
 ## Kullanım:
-Python ortamında gerekli kütüphanelerin yüklenmesi:  
-+  `pip install pandas scikit-learn`
-+  Kullanıcıdan alınan metinle sınıflandırma yapmak için kodu çalıştırın.
+Kullanıcıdan alınan metinle sınıflandırma yapmak için kodu çalıştırın.
